@@ -1,0 +1,122 @@
+.addPage-name{
+    font-family: Roboto;
+    font-size: 20px;
+}
+.addPage-input-container{
+    margin: 20px;
+    background-color: #ffffff;
+    display: flex;
+    border-radius: 4px;
+}
+.addPage-input{
+    margin: 10px;
+    
+}
+.addPage-input-element{
+    width: 300px;
+    height: 30px;
+}
+.addPage-textarea-input{
+    width: 300px;
+    height: 50px;
+}
+.addpage-heading{
+    font-family: Roboto;
+    font-size: 20px;
+    margin: 20px;
+}
+.addpage-sku-input-element{
+    width: 400px;
+    margin: 20px;
+    height: 26px;
+}
+.addPage-details-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    background-color: #373737;
+}
+.addpage-details-alignment{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.addpage-load-details-container{
+    width: 60%;
+}
+.addpage-weekdays-container{
+    display: flex;
+    justify-content: space-between;
+}
+.addpage-load{
+    text-align: center;
+    color: #ffffff;
+   
+}
+.week{
+    color: #ffffff;
+}
+.selectall-checkbox{
+    width: 16px;
+}
+.addpage-buttons-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.back-button{
+    min-width: 100px;
+    height: 26px;
+    margin: 20px;
+    font-weight: bold;
+    background-color: #ffffff;
+    border-width: 0px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.save-button{
+    width: 100px;
+    background-color: #373737;
+    border-width: 0px;
+    height: 26px;
+    color: #ffffff;
+    border-radius: 4px;
+}
+.popup-container{
+ background-color: #ffffff;
+ min-height: 50vh;
+ min-width: 400px;
+ border-radius: 4px;
+}
+.popup-close-alignment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+}
+.popup-heading{
+    font-size: 20px;
+    margin: 20px;
+}
+.popup-close-button{
+    margin: 20px;
+    cursor: pointer;
+}
+.popup-input{
+    margin-left: 20px;
+    width: 200px;
+    outline:none;
+    height: 26px;
+}
+.popup-search-button{
+    margin-left: 20px;
+    width: 100px;
+    color: #ffffff;
+    background-color: #373737;
+    border-width: 0px;
+    height: 26px;
+    cursor: pointer;
+    border-radius: 4px;
+}

@@ -1,0 +1,14 @@
+.heading{
+    font-family: roboto;
+    margin: 20px;
+
+}
+.para{
+    font-family: roboto;
+}
+.headingContainer{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #cce6cd;
+}
